@@ -1,1 +1,1 @@
-# awesome
+- [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
