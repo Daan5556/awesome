@@ -1,2 +1,3 @@
 - [Plain Vanilla Web](https://plainvanillaweb.com)
 - [Friendly introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
+- [Linux cheatsheet](https://cht.sh/)
