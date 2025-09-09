@@ -1,3 +1,4 @@
 - [Plain Vanilla Web](https://plainvanillaweb.com)
 - [Friendly introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
 - [Linux cheatsheet](https://cht.sh/)
+- [In UNIX everything is a File](https://web.archive.org/web/20190816135930/http://ph7spot.com/musings/in-unix-everything-is-a-file)
