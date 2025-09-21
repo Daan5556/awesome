@@ -3,3 +3,4 @@
 - [Linux cheatsheet](https://cht.sh/)
 - [In UNIX everything is a File](https://web.archive.org/web/20190816135930/http://ph7spot.com/musings/in-unix-everything-is-a-file)
 - [How Container Filesystem Works: Building a Docker-like Container From Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
+- [CSS named colors](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
