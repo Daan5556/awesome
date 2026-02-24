@@ -5,3 +5,4 @@
 - [How Container Filesystem Works: Building a Docker-like Container From Scratch](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 - [CSS named colors](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
 - [9 things I learned at 90](https://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
+- [Map of Github](https://anvaka.github.io/map-of-github/#2.47/1.32/-2.26)
